@@ -1,0 +1,185 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: FALSE # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Damodar Konda
+    tagline: Vice President of Technology
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: support@e-pmtech.com
+    phone: 
+    website: e-pmtech.com #do not add http://
+    linkedin: damodarkonda
+    github: 
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Telugu
+        level: Native
+        
+career-profile:
+    title: Career Profile
+    summary: |
+      Highly successful IT thought leader and business partner with extensive experience leading Global Digital Transformation initiatives including online e-Commerce, 
+      e-Logistics, e-Finance and e-Insurance. Built and managed PMOs, and successfully delivered large scale, highly complex, global digital transformation projects, 
+      Product Development and Commercialization efforts. Excellent IT Leadership experience in the areas of Project Portfolio Management, IT Strategy, and Governance, 
+      Risk and Compliance (GRC) and Enterprise Architecture. Established and Managed Project Management Offices (PMO) and 
+      structured System Development Life Cycle (SDLC) processes and led corporate-wide System Delivery Process Improvement Initiatives. Adept at using Waterfall, 
+      Incremental, Iterative and Agile Development methodologies. Deep knowledge of technologies, security and compliance, 
+      and global program management experience with Enterprise BI Solutions, Infrastructure Upgrade and Security Remediation Initiatives, 
+      and implementation of ERP and CRM applications and Custom and Commercial-off-the-shelf packaged solutions. A Highly qualified professional, 
+      and role model with the needed maturity, emotional intelligence, executive presence of mind, and leadership to make real difference.  
+
+      Mr. Konda is a certified Program Management Professional (PgMP), Project Management Professional (PMP), Agile Certified Practitioner (PMI-ACP), 
+      Professional Scrum Master (PSM1), and holds a certification in ITIL. His qualifications include a doctorate in IT Management, 
+      MBA, Master’s and Bachelor’s Degree in mechanical engineering. 
+education:
+    - degree: Master of Business Administration (MBA)
+      university: Southern Illinois University, Carbondale, IL, USA.
+    - degree: Doctorate in Information Technology Management
+      university: LTU, Southfield, MI, USA.
+    - degree: Masters in Mechanical Engineering
+      university: Indian Institute of Technology, Madras, India.
+    - degree: Bachelors in Mechanical Engineering
+      university: Regional Engineering College, Warangal, India.
+
+    # - degree: MSc in Computer Science
+    #   university: University of London
+    #   time: 2011 - 2012
+    #   details: |
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
+experiences:
+    - role: Vice President of Technology
+      time: April 2018 – Present
+      company: World Logistics Council Americas, Dearborn, MI
+      details: |
+        As Head of Technology, provide IT advisement on Technology Strategy, new product development, product roadmap, business planning, Go-To-Market  and IT strategy development and operations.
+        - Leading a $200M global Business-to-Business (B2B) digital economy platform by transforming 15 years of research and development into new product innovations and platform solutions.
+        - Technology Advisement on Product and Platform Development Strategy, Business Development Strategy and Program Initiative Funding Strategy.
+        - IT Strategy: Defined the overall technology vision, strategy, and business plans for developing the global B2B platform solutions comprising e-Logistics, e-Commerce, e-Insurance, and e-Finance platforms.
+        - Objective Business Performance and Risk Measures based on billons of fact-based commercial data for bi-directional business transparency and de-risking business transactions.
+        - Product Development: Built new product innovations to enhance global trade efficiency by identifying process innovation areas for leveraging artificial intelligence (AI), Blockchain, and Big Data technologies along with catalog of organizational and technological innovation initiatives.
+        - Product Management: Authored and Prioritized User Stories, developed Process Flow Diagrams, wrote infographic video scrips, and built Proof of Concept B2B Digital Platform Solution.
+        - Capital Funding and Marketing Strategy for new and mid-staged ventures. Business Development and Value Proposition proposal for Public, Private, and Government Agencies.
+        - Global Data Security Standards and Compliance with Data Security and Privacy and  Cyber Security Standards.
+    - role: Program Quality Assurance Partner
+      time: Dec 2016 to Apr 2018
+      company: State of Michigan DTMB EPMO, Lansing, MI
+      details: |
+        Providing program and project assurance support for over $250 million-dollar IT Investment Fund legacy IT modernization portfolio for State of Michigan, Department of Technology, Management and Budget (DTIMB) Enterprise Portfolio Management Office.
+        - Coached, mentored, and advised senior project and program managers on the SUITE PMM, and SEM SDLC and CMMI-based Waterfall and Agile methodology processes, project and program execution, issue and risk management and corrective action plans for project success.
+        - Significantly enhanced project and program success for Cloud Strategy Implementation, Qualified Voter File System, and Radiation Safety Data Tracking System.
+        - Designed and developed a CMMI based Project Quality Assurance Health Check Tool to assess process and product quality and enhance project and program success.
+        - Program Assurance of Information Security Management and Cyber Security Framework based on NIST, OWASP Standards, COBIT Framework and Implementation of GRC tools and Data Security Standards.
+    - role: Sr. Vice President, IT&S
+      time: Nov 2014 to Dec 2016
+      company: NeighborWorks America, Washington, DC
+      details: |
+        Head of Information Technology division in Senior Executive Services level position in a federally funded organization managing around $10 million IT budget.
+        - Successfully led enterprise digital transformation by building Enterprise Platform Solutions using Salesforce based CRM, SaaS-based ERP Solution (NetSuite and UltiPro), Enterprise BI solution, Enterprise Integration Services, Cloud-based computing IT and Application Infrastructure.
+        - Established Enterprise PMO and matured SDLC processes from the ground up and instituted IT Project Governance processes.
+        - Built high performance IT team, and strong partnerships with business unit leaders to achieve success of major IT project and program initiatives.
+        - Chief Security Information Officer, Instrumental for enhancing enterprise level Information Security Management by establishing Security Policies, Standards, Guidelines, Baselines and Procedures including Threat Modeling, Vulnerability Management and reducing compliance risks and enhancing business continuity and disaster recovery readiness for serving 250 neighborworks organizations. Security Remediation program initiatives consisted of the following projects.
+          - Data and Information Security. Enhanced security controls over Personally Identifiable Information (PII) and Payment Card Industry Data Security Standard (PCI DSS).
+          - Network Security. Managed and Implemented an improved Network and Application Architecture and Configuration.
+          - Identity and Access Management. Established a security and identity management infrastructure to protect corporate applications and infrastructure.
+          - Security Policies and Procedures. Established a set of governing Information Security Policies, and Procedures based on NIST and COBIT framework.
+          - Implemented Tools needed to support Application & Network Vulnerability Scanning, Data Encryption, and Threat Detection & Eradication.
+          - Launched an Incident Response Program capability and Information Security Awareness.
+    - role: Chief Technology Officer
+      time: Oct 2013 to Nov 2014
+      company: University of Michigan, Ann Arbor, MI.
+      details: |
+        Head of IT department at University of Michigan, Health Management Research Center (HMRC) serving over 200 corporate clients and their resellers and 4 million end users globally.  
+          
+        **Health and Wellness Management Products and Services**
+        - Health Management Research Center - Scope of services included SaaS based health and wellness management products and services to 200 corporate clients and 4 million annual end users based on world-class pioneering health management research conducted by University of Michigan.
+        - Managed Product Development and Enhancement Projects using Agile Development Methodologies
+          - HRA Re-Design. Health Risk Appraisal redesign consisting of ergonomically designed User Interface Design for Survey Questionnaire, New look and feel for Profile Report Design, Rules Engine based Health Risk Assessment factors, and Report Re-design.
+          - Optimal Health Assessment (OHA). A new product development initiative based on optimal set of health risk factors architected on a Java/JEE based platform with a user driven Rules Engine, Business Process Workflows for skip logic using Oracle database technologies.
+          - Culture of Health (COH). A new product designed to assess the gaps in the culture of health as perceived by the employees’ health and wellness management programs compared with the expected benefits of the program by the management.
+          - NextSteps. A case management tool for helping individuals to make appropriate health risk related behavioral adjustments and tracking the progress over a period. The product was based on a LAMP architecture using PHP front end on Apache web server using MySQL database.
+        - Reduced production support incidents from several thousands to fewer than 200 in 3 months by streamlining and stabilizing product support functions.
+        - Chief Security Information Officer for HMRC responsible for safeguarding and protecting PHI and PII and other sensitive data of 200 corporate customers and 4 million end users.
+          - Established Security related Policies, Procedures, and Practices.
+          - Acted in the capacity of HMRC Security Liaison for the University of Michigan for handling any security related incidents and response.
+          - Responsible for Security Management and Compliance audits for HRMC PII and PHI data for 4 million end users.
+          - Facilitated internal Quarterly Security audits and oversaw Security Remediation programs for closing the gaps in Information, Data, Network, Identity, and Access Control areas for HRMC products housing PII and PHI related data.
+    - role: Vice President, Global Business Applications
+      time: Dec 2008 to Oct 2013
+      company: RGIS LLC, Auburn Hills, MI
+      details: |
+        A Blackstone group company with 40,000 employees and a billion-dollar revenue providing space optimization and inventory audit services to retail industry in more than 40 countries globally. Managed more than $20 million IT budget and a total staff of 100 (internal and external).
+        - Head of Global Business Applications department and reorganized it in to Center of Excellence for the implementation of ERP, COTS and Custom Enterprise Applications.
+        - Established Program Management Office (PMO) and successfully implemented global Oracle E-Business Financial and HCM applications, Time and Labor Management Solution and Custom Java/JEE Inventory Operations and Microsoft based BI applications.
+        - Information Seucirty Management. Implemented Identity and Access Management, Role-based Access Management and Single Sign-On, IT Governance, Risk and Compliance for Global Business Applications.
+        - Laid out Technology Roadmap, and IT Blueprint for Global Business Applications based on business priorities. Tightly integrated IT Project Portfolio Planning with Capital Expenditure Budget approval process based on accurate project estimates from IT Product/Solution Vendors.
+        - Introduced Senior Management and Executive Management Reviews (SMRs and EMRs) for IT Governance. Established Project Scorecards and Enterprise Dashboard Metrics for reviews.
+        - Global Project and Program Management of Time and Labor Management System (TLMS). Led the implementation of a multimillion dollar global program roll out into 29 countries.  
+          
+        **Oracle E-Business Projects**
+        - R12 Upgrade Project: Scope; Oracle EBS Financials, and HCM Apps from 11.5.10.2 to 12.1.3, Basic Benefits to Standard Benefits, Re-writing of Optio Reports to BI Publisher, Role-based security, and Data Archival and Purge to reduce storage space and improve performance.
+        - Global COA and Calendar Re-Design: Consolidation of multiple charts of accounts into one Standard Global Chart of Accounts, multiple reporting calendars into one standard monthly reporting calendar, and Oracle database upgrade from 10g to 11g and UTF8 character set.
+        - SAF (South America Financials) Implemented Oracle Financials (GL, AR, and AP) in Brazil, Argentina, Peru, Chile, and Costa Rica with Synchro Solution in Brazil.
+        - HRIO Project: Deployed Oracle E-Business HRMS, and Financials (GL) and Custom Inventory Operations Application (Customer and Order Management and Billing and Costing), SaaS-based Taleo Application with HR Interface in ten countries in Europe, Latin America, and Asia Pacific to support market growth.
+        - SWB/IO Technology upgrade to upgrade Oracle database from 10g to 11i and upgrade of JBoss EAP version to support application clustering for failover and high availability. Performance tuning of top 10 critical business functions that were  bottlenecks for user operations.
+    - role: IT Global Program Manager
+      time: May 2001 to Dec 2008
+      company: GPSC IS&S, General Motors Corporation, MI 
+      details: |
+        Led Enterprise Process Improvement Initiatives, Managed Global Programs/Projects, and Global PMO for GPSC.  
+          
+        **Global Program Manager**
+        - PMO. Global PMO Manager for GM GPSC IS&S with responsibility for overseeing around 100 active projects with tens of million dollar budget for global project initiatives. Identified process bottlenecks and streamlined PMO Processes. Established project dashboard metrics and compiled project metrics for senior management reviews and for preventive and corrective actions.
+        - QA. Organized Offshore Verification and Validation Team for supporting Program Quality Management. Conducted Project Audits for CMMI process compliance and coached and mentored project managers to bring projects back on track.
+        - Sustain. Responsible for Global Requisition System and Timecard Applications. Instituted weekly offshore calls with the EDS Sustain technical team to proactively identify the issues before they become significant incidents.
+        - SAP Projects: Solution delivery of global processes implementing SAP modules in support of Supply Chain, Logistics, Order Fulfillment, and Material Management.  
+          
+        **Program Manager, IT Renewal Program**
+        - Successfully delivered several critical infrastructure Secure FTP Migration and CSIDS, Rewrite, CSA-Rewrite, and GRS-Timecard projects on time and within budget.
+        - Facilitated technical reviews for successful resolution of GRS and Timecard application performance and system architectural issues and won appreciation from Project Sponsor. Managed multi-vendor coordination (HP, EDS, and Wipro) for timely escalation and corrective actions.  Coached and mentored project managers and team members on the SDP processes.
+        **SDP Standardized Work**
+        - Architected, Designed, and Developed a brand new Accept Management Framework for SDP 10 Third Generation Outsourced Model for General Motors Corporation. Identified Industry Standards and Best Practices for input into process definition documentation of System Delivery Processes. Served on corporate process, tools, and technology evaluation and selection committees.
+        - Requirements Corporate Lead. Led Business Requirements, System Requirements, Requirements Management, and RM Tool sub-teams. Identified improvement opportunities to make the process simpler, easier, and efficient.  
+          
+        **Program Manager, SUGS 2.0 Project**
+        - Successfully led multimillion dollar B2B Web Portal project initiative for Supplier Suggestions (SUGS 2.0) System consisting of Supplier Portal, Infrastructure, Global Integration Factory sub-projects.
+        - Consistently maintained high Process Quality Score of close to 100%. Managed On-site/Off-shore team members requiring high degree of close coordination. Used CaliberRM tool for Requirements Management and PVCS Dimensions for Configuration Management.
+        - Resulted in millions of dollars in savings from cost reduction ideas generated from SUGS Web Portal.  
+          
+        **Requirements Engineering Manager, PA Lead for SCECON**  
+        Process Area Lead for Requirements Engineering for SCEGON (Supply Chain, Customer Experience, eGM, and Onstar)
+        - Led SDP 21 (Software Delivery Process) Requirements Development and Management Process Improvement Initiatives for CMMI Level 2 and Level 3.
+        - Supported Requirements Process for Supply Chain Part Planning, Supply Power Portal Applications (Purchasing), Wireless Yard Management System, and Global Locate to Order e-Commerce Application for locating vehicles and automotive dealers before placing orders online.
+    - role: Senior IT Consultant
+      time: Feb 1996 to May 2001
+      company: Ford Motor Company, Dearborn, MI
+      details: |
+        System development initiatives to support Business Leadership Initiatives for process efficiencies and cost reduction.
+        - Keane. Prepared multi-million dollar bid proposal and RFP Response for Michigan State e-Portal Application. Wireless Resource Management (WRM) Supply Chain Operations and Logistics Project Management for Meijer using RFID Wireless System for tracking movement of Merchandise Trucks through Logistics and Distribution Operations.
+        - Gale Group. Program Level Integration, Estimation, and Budgeting used Java/J2EE, and XML technologies on Unix and Windows platforms and Oracle and SQL Server Databases.
+        - Ford Motor Co. Design, Development and Application Support of Data warehouse and Reporting Initiatives including Total Cost System (Plant Level Costing), Distributed Labor and Overhead Reporting System, VIN Level Data-mart Reporting System using MS Access, SQL Server and Oracle Data Bases Data-mart, Crystal Reports, Developer/Designer and MS Visual Studio IDE and ASP.Net.
+        - O& S Manufacturing. Managed Production Planning and Control, Engineering Work Order System, and Material Management. Conducted Torque-rod business analysis, and implemented Torque-rod automation system.
+
+footer: >
+# Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
